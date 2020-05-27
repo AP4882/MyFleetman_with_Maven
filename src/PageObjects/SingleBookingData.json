@@ -1,0 +1,73 @@
+{
+"BookingForm":
+
+	[
+	
+	 {
+		"Prefix": "abc",
+		"Companyname": "ABC INDIA PVT. LTD.(AIPL)",
+		"ServingCity": "PUNE",
+		"BookingMode": "Email",
+		"Year1": "2020",
+		"Month1": "Jul",
+		"Day1": "29",
+		"Year2": "2020",
+		"Month2": "Jul",
+		"Day2": "29",
+		"No.ofGuests": "1",
+		"BookingGivenBy": "Ashish",
+		"BookingByContactNo": "7787878888",
+		"BookingByEmailId": "ashish@kairee.in",
+		"CompanyRefNo": "9787665546",
+		"GuestPrefix":"sachin",
+		"GuestName": "sachin 9898908004",
+		"Time": "02:00PM",
+		"Address1":"Airport",
+		"Address2":"Residence",
+		"PickupLocation":"Pune Airport",
+		"DropLocation": "Kairee Office",
+		"PaymentType": "rdoCash",
+		"VehicleType": "SEDAN",
+		"PackageFor": "LOCAL",
+		"PackageName": "8HR80KM",
+		"PaymentMode": "Cash"
+		
+			
+	},
+{
+		"Prefix": "abc",
+		"Companyname": "ABC INDIA PVT. LTD.(AIPL)",
+		"ServingCity": "PUNE",
+		"BookingMode": "Email",
+		"Year1": "2020",
+		"Month1": "Jul",
+		"Day1": "30",
+		"Year2": "2020",
+		"Month2": "Jul",
+		"Day2": "30",
+		"No.ofGuests": "1",
+		"BookingGivenBy": "Ashish",
+		"BookingByContactNo": "7787878888",
+		"BookingByEmailId": "ashish@kairee.in",
+		"CompanyRefNo": "9787665546",
+		"GuestPrefix":"sachin",
+		"GuestName": "sachin 9898908004",
+		"Time": "02:00PM",
+		"Address1":"Airport",
+		"Address2":"Residence",
+		"PickupLocation":"Pune Airport",
+		"DropLocation": "Kairee Office",
+		"PaymentType": "rdoCash",
+		"VehicleType": "SEDAN",
+		"PackageFor": "LOCAL",
+		"PackageName": "8HR80KM",
+		"PaymentMode": "Cash"
+		
+			
+	}
+
+	 
+		
+	]	
+		
+}

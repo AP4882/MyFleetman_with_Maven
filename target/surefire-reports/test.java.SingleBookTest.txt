@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: test.java.SingleBookTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 105.771 sec <<< FAILURE!
+JSONDataRead(test.java.SingleBookTest)  Time elapsed: 50.251 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: Cannot locate element with text: SEDAN
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SOFT14', ip: '192.168.10.44', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:147)
+	at PageObjects.SingleBooking.BookTest1(SingleBooking.java:217)
+	at test.java.SingleBookTest.JSONDataRead(SingleBookTest.java:148)
+

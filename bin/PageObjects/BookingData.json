@@ -1,0 +1,77 @@
+{
+"BookingForm":
+
+	[
+	
+	 {
+		"Prefix": "abc",
+		"Companyname": "ABC INDIA PVT. LTD.(AIPL)",
+		"ServingCity": "PUNE",
+		"BookingMode": "Email",
+		"Year1": "2020",
+		"Month1": "Feb",
+		"Day1": "1",
+		"Year2": "2020",
+		"Month2": "Feb",
+		"Day2": "2",
+		"No.ofGuests": "1",
+		"BookingGivenBy": "Ashish",
+		"BookingByContactNo": "7787878888",
+		"BookingByEmailId": "ashish@kairee.in",
+		"CompanyRefNo": "9787665546",
+		"GuestPrefix":"sachin",
+		"GuestName": "sachin 9898908004",
+		"Time": "02:00PM",
+		"Address1":"Airport",
+		"Address2":"Residence",
+		"PickupLocation":"Pune Airport",
+		"DropLocation": "Kairee Office",
+		"PaymentType": "rdoCash",
+		"VehicleType": "SEDAN",
+		"PackageFor": "LOCAL",
+		"PackageName": "8HR80KM",
+		"PaymentMode": "Cash"
+		
+			
+	},
+	{
+	   "Prefix": "abc",
+		"Companyname": "ABC INDIA PVT. LTD.(AIPL)",
+		"ServingCity": "PUNE",
+		"BookingMode": "Email",
+		"Year1": "2020",
+		"Month1": "Feb",
+		"Day1": "3",
+		"Year2": "2020",
+		"Month2": "Feb",
+		"Day2": "4",
+		"No.ofGuests": "1",
+		"GuestPrefix":"Ash",
+		"GuestName": "ASHISH 9789798765",
+        "EmpID": "1001",
+        "ProjectCode": "P1",
+        "ProjectName": "Project1",
+        "ProjectCost": "5000",
+        "CustCode": "Cust1",
+		"Time": "02:00PM",
+		"Address1":"Airport",
+		"Address2":"Residence",
+		"PickupLocation":"Pune Airport",
+		"DropLocation": "Kairee Office",
+		"BookingGivenBy": "Ashish",
+		"BookingByContactNo": "7787878888",
+		"BookingByEmailId": "ashish@kairee.in",
+		"CompanyRefNo": "9897768878",
+		"PaymentType": "rdoCash",
+		"VehicleType": "SWIFT DEZIRE",
+		"PackageFor": "LOCAL",
+		"PackageName": "8HR80KM",
+		"PaymentMode": "Cash"
+		
+		
+		}
+		
+		
+	]	
+		
+}
